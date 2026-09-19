@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AtharvKhairnarPortfolio/static/css/main.b8e596de.css",
+    "main.js": "/AtharvKhairnarPortfolio/static/js/main.771373d7.js",
+    "static/js/453.b05d8aa5.chunk.js": "/AtharvKhairnarPortfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Profile.png": "/AtharvKhairnarPortfolio/static/media/Profile.4870579b1f3d968a66bb.png",
+    "static/media/Business.png": "/AtharvKhairnarPortfolio/static/media/Business.c136687956dd4e8c1f52.png",
+    "static/media/Travel.png": "/AtharvKhairnarPortfolio/static/media/Travel.32cdd854fa1932f507d5.png",
+    "static/media/bg-light.png": "/AtharvKhairnarPortfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/AtharvKhairnarPortfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Finwise.png": "/AtharvKhairnarPortfolio/static/media/Finwise.ce8b8edd34d22b6645d7.png",
+    "static/media/Homeservice.jpg": "/AtharvKhairnarPortfolio/static/media/Homeservice.021b2b81bcc10316d6ab.jpg",
+    "index.html": "/AtharvKhairnarPortfolio/index.html",
+    "main.b8e596de.css.map": "/AtharvKhairnarPortfolio/static/css/main.b8e596de.css.map",
+    "main.771373d7.js.map": "/AtharvKhairnarPortfolio/static/js/main.771373d7.js.map",
+    "453.b05d8aa5.chunk.js.map": "/AtharvKhairnarPortfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e596de.css",
+    "static/js/main.771373d7.js"
+  ]
+}
