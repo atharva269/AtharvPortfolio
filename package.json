@@ -2,11 +2,7 @@
   "name": "react-portfolio-template",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": " https://atharva269.github.io/AtharvPortfolio",
-=======
-  "homepage": " https://atharva269.github.io/AtharvKhairnarPortfolio/",
->>>>>>> c1c2aba289ba1378cfe28d9122428681d4a647e1
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
