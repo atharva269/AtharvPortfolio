@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AtharvPortfolio/static/css/main.3d6cf9e9.css",
+    "main.js": "/AtharvPortfolio/static/js/main.333a4d90.js",
+    "static/js/453.b05d8aa5.chunk.js": "/AtharvPortfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Profile.png": "/AtharvPortfolio/static/media/Profile.4870579b1f3d968a66bb.png",
+    "static/media/Business.png": "/AtharvPortfolio/static/media/Business.c136687956dd4e8c1f52.png",
+    "static/media/Travel.png": "/AtharvPortfolio/static/media/Travel.32cdd854fa1932f507d5.png",
+    "static/media/bg-light.png": "/AtharvPortfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/AtharvPortfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Finwise.png": "/AtharvPortfolio/static/media/Finwise.ce8b8edd34d22b6645d7.png",
+    "static/media/Homeservice.jpg": "/AtharvPortfolio/static/media/Homeservice.021b2b81bcc10316d6ab.jpg",
+    "index.html": "/AtharvPortfolio/index.html",
+    "main.3d6cf9e9.css.map": "/AtharvPortfolio/static/css/main.3d6cf9e9.css.map",
+    "main.333a4d90.js.map": "/AtharvPortfolio/static/js/main.333a4d90.js.map",
+    "453.b05d8aa5.chunk.js.map": "/AtharvPortfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6cf9e9.css",
+    "static/js/main.333a4d90.js"
+  ]
+}
